@@ -1,10 +1,12 @@
 # CSS Flexbox Layout
 
-![https://github.com/code-differently/css-flex/blob/main/img/flex-full.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
+Recreate a very similar file to the images shown below using the directions in Parts 1 & 2.
+
+![https://github.com/code-differently/css-flex/blob/main/img/flex-full.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-full.jpg)
 
 ![https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
 
-![https://github.com/code-differently/css-flex/blob/main/img/flex-mobile.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
+![https://github.com/code-differently/css-flex/blob/main/img/flex-mobile.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-mobile.jpg)
 
 
 ## Part 1
