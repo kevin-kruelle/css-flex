@@ -1,5 +1,11 @@
 # CSS Flexbox Layout
 
+![https://github.com/code-differently/css-flex/blob/main/img/flex-full.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
+
+![https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
+
+![https://github.com/code-differently/css-flex/blob/main/img/flex-mobile.jpg](https://github.com/code-differently/css-flex/blob/main/img/flex-tablet.jpg)
+
 
 ## Part 1
 
